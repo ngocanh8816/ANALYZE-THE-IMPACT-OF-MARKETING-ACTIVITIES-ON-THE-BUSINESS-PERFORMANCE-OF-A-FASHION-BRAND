@@ -140,5 +140,4 @@ orders['price_segment'][orders['sale_price'] > 500] = '>$500'
 # Project Structure
 The project includes the following main components:
 + `README.md`: This file provides information and an overview of the analysis.
-+ `ANALYZE THE IMPACT OF-MARKETING ACTIVITIES ON THE BUSINESS PERFORMANCE OF A FASHION BRAND`: The Google Colab file contains code for processing, transforming, and retrieving data.
 + `Dashboard`: Data visualization file using Power BI for each part of the analysis.
